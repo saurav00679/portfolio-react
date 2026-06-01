@@ -26,7 +26,7 @@ const IntroPage = () => {
           </p>
           <div className="btn-con">
             <a
-              href="https://drive.google.com/file/d/1srqVTmfnkasTf6XUVjzpHxGShIVN-mm-/view?usp=sharing"
+              href="https://drive.google.com/file/d/15SZH_8gkMowIouGFm83SlzM6dBTzYbIc/view?usp=sharing"
               target="_blank"
               className="main-btn"
               rel="noreferrer"
